@@ -1,0 +1,17 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Nick Richmond <get@nickrichmond.dev> (@nwrichmond)",
+  "license": "ISC",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "dependencies": {
+    "gatsby": "^2.19.43",
+    "gatsby-theme-basic": "^0.0.1",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
