@@ -1,0 +1,10 @@
+{
+  "name": "gatsby-theme-basic",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Nick Richmond <get@nickrichmond.dev> (@nwrichmond)",
+  "license": "ISC",
+  "peerDependencies": {
+    "gatsby": "^2.6.0"
+  }
+}
