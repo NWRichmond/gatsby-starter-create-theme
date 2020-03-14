@@ -1,0 +1,29 @@
+{
+  "name": "gatsby-starter-create-theme",
+  "version": "1.0.0",
+  "description": "A Lerna-powered Gatsby starter for creating a Gatsby theme connected to an example project",
+  "main": "index.js",
+  "scripts": {
+    "connect": "lerna add gatsby-theme-basic example && lerna bootstrap",
+    "disconnect": "lerna clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NWRichmond/gatsby-starter-create-theme.git"
+  },
+  "keywords": [
+    "gatsby",
+    "starter",
+    "theme",
+    "lerna"
+  ],
+  "author": "Nick Richmond <get@nickrichmond.dev> (@nwrichmond)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NWRichmond/gatsby-starter-create-theme/issues"
+  },
+  "homepage": "https://github.com/NWRichmond/gatsby-starter-create-theme#readme",
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  }
+}

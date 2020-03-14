@@ -1,0 +1,10 @@
+{
+  "version": "independent",
+  "packages": ["gatsby-theme-basic/", "example/"],
+  "npmClient": "npm",
+  "command": {
+    "bootstrap": {
+      "npmClientArgs": ["--no-package-lock"]
+    }
+  }
+}
