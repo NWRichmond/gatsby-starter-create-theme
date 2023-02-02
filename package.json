@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/NWRichmond/gatsby-starter-create-theme#readme",
   "devDependencies": {
-    "lerna": "^3.20.2"
+    "lerna": "^6.4.1"
   }
 }
